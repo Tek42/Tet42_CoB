@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="SpellLists">
+		<node id="root">
+			<children>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 3" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="4f0163f9-71ac-4021-ad5a-4c00732e96a9" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 4" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="a232171c-37ca-4c65-bc4a-4ade44710af8" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 5" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="14570453-fa63-425c-8e11-acf8c56eb1de" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 6" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="01250b7f-2d13-48cb-99c0-b1bfd5a9fc55" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 7" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="5084d08a-4e35-4f09-b9be-485284cb0066" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 8" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="de5e9e4f-c5b6-418e-98c4-aecc67c09f2b" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 9" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="322cde98-22f1-4e7f-aa3f-d4ced5fbd8b1" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 10" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="a866b90c-bbad-4cb2-bdfd-c4926f46cb2f" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 11" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="241f3f76-5bf6-4e66-ac93-86a02c062fdd" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 12" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="6bc26d4f-bd43-47ee-9c15-ff43029eb458" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 13" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="9caa49e6-8453-48ee-8c05-4b90a2a1a85e" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 14" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="3b65fac0-ae2a-4010-9857-875395bb335c" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 15" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="33492ad1-d060-4bcd-a034-5f52a2302b71" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 16" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="fe90651b-5315-4629-b640-01aa26ce23c3" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 17" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="b769a787-4092-422b-97fb-22379eb9d9d4" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 18" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="88444aa0-2dad-4e04-90bc-851e9fff7a26" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 19" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="7b3c4498-85bf-4d9d-a22c-09c000e93aab" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 20" />
+					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="UUID" type="guid" value="f06e8d99-54ff-4f29-8438-edfbdfe40ea5" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
