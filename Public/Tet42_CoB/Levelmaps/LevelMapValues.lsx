@@ -20,6 +20,14 @@
                     <attribute id="Name" type="FixedString" value="CoB_Psychic"/>
                     <attribute id="UUID" type="guid" value="be46ff6f-e938-4bb9-932b-938502588b5a"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="1d10"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Level15" type="LSString" value="1d12"/>
+                    <attribute id="Name" type="FixedString" value="BardicInspirationDie"/>
+                    <attribute id="UUID" type="guid" value="69c8991a-3505-498c-8e80-449c897e2434"/>
+                </node>
             </children>
         </node>
     </region>

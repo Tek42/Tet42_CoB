@@ -1,0 +1,44 @@
+reactions
+
+disarming trill
+
+When you hit a creature with
+a spell or weapon attack, you can expend one
+inspiration die to attempt to disarm the target,
+forcing it to drop one item of your choice that
+it’s holding. You add the inspiration die to the
+attack’s damage roll, and the target must make
+a Strength saving throw. On a failed save, it
+drops the object you choose. The object lands at
+its feet.
+
+hymn of Intimidation
+
+When you hit a creature
+with a spell or weapon attack, you can spend
+your bonus action to expend one inspiration die
+to attempt to frighten the target. You add the
+inspiration die to the attack’s damage roll, and
+the target must make a Wisdom saving throw.
+On a failed save, it is frightened of you until the
+end o f your next turn.
+
+lyric of the lingering laggard
+
+When you hit a
+creature with a spell or weapon attack, you can
+spend your bonus action to spend one
+inspiration die to attempt to slow the creature’s
+movement. The creature must succeed on a
+Wisdom saving throw or have its movement
+halved on the next move action it takes.
+
+sonic riposte
+
+When a creature misses you
+with a melee attack, you can use your reaction
+and expend one inspiration die to make a spell
+attack against the creature’s AC. If you hit, you
+do thunder damage equal to the result of
+inspiration die roll plus your charisma modifier.
+

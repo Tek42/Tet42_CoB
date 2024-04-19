@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="CoB_DisarmingTrill;CoB_HymnOfIntimidation;CoB_LyricOfTheLingeringLaggard;CoB_SonicRiposte;CoB_AriaOfDiscordance;CoB_DarkMinstrelsLullabye;CoB_ProvokingChorus;CoB_ShieldingMelody;CoB_SongOfTheWhimperingStrike;CoB_VerseOfTheVigorousChampion"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="CoBSpells"/>
+                    <attribute id="TableUUID" type="guid" value="fc6648f9-81b9-4227-aa0a-351932b0bc10"/>
+                    <attribute id="UUID" type="guid" value="a8b53535-cb6e-4078-8edf-90b4fc9af520"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

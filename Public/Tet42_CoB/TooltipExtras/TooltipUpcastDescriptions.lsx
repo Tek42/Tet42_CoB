@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="TooltipUpcastDescriptions">
+        <node id="root">
+            <children>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional damage"/>
+                    <attribute id="Text" type="TranslatedString" handle="hf56902c202584ea99eb09e0fd5ad4c7b59ad" version="1"/>
+                    <attribute id="UUID" type="guid" value="17e2f45a-735c-40fa-8607-4eed79607e11"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

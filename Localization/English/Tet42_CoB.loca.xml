@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
     <content contentuid="hc7ce00c1184a40088b74fa24e6be1cb09700" version="1">College of Bae'Qeshel</content>
-    <content contentuid="h1c93ca72ab7a45f79a9e16554a9658febf0b" version="1">The College of Bae'Qeshel is a small but growing society of Dark Minstrels that originates in the Underdark and is primarily practiced by Drow worshippers of Lolth.</content>
+    <content contentuid="h1c93ca72ab7a45f79a9e16554a9658febf0b" version="1">The College of Bae'Qeshel is a small but growing society of Dark Minstrels that originated in the Underdark and is primarily practiced by Drow worshippers of Lolth.</content>
+    <content contentuid="h5c9d2d7dfa7c4427a889c821b7e574fe15a8" version="1">Aria of Discordance</content>
+    <content contentuid="hac0de3a506e647c3a438620b3551ae7913g3" version="1">Release a cone of sonic force that pushes away all creatures and objects and does Thunder damage.</content>
+    <content contentuid="hf56902c202584ea99eb09e0fd5ad4c7b59ad" version="1">Deals an additional [1] [2] damage for each Bardic Inspiration charge used.</content>
+    <content contentuid="hbed6ed5918604efcac5ce528966558e71b79" version="1">Dark Minstrel's Lullabye</content>
+    <content contentuid="h1b4dc86b4f1645aa915318e960fb7b8436gg" version="1">Expend one or more inspiration dice to attempt to inflict additional poison damage equal to the result of the inspirational die roll(s). If you spend more than two dice you also have a chance to poison your target for 1 minute.</content>
+    <content contentuid="hc7d2579deccc41f6abf3dfbdec2ddf8c6418" version="1">Disarming Trill</content>
+    <content contentuid="hfda79f3d16cd40cfaf3979464c28508207ce" version="1">When you hit a creature with a spell or melee attack you can add an inspiration die roll to your damage and have a chance to Disarm the target.</content>
+    <content contentuid="h720ec8dc1eb24dcb8757a5809411f4bfe6c1" version="1">Hymn of Intimidation</content>
+    <content contentuid="h9c00d66605f54c25b6c143c284efe2ce8779" version="1">When you hit a creature with a spell or melee attack you can add an inspiration die roll to your damage and have a chance to Frighten the target until the end of your next turn.</content>
+    <content contentuid="hf7f4ac8a1ad64e2c91ab4bd323f325549fcc" version="1">Lyric of the Lingering Laggard</content>
+    <content contentuid="h7b18fb6cc7394825b7edf55947194958017a" version="1">When you hit a creature with a spell or melee attack you can add an inspiration die roll to your damage and slow the creatures movement for 2 turns.</content>
+    <content contentuid="h5999666ec117453780d9cc789ba6c101c0c0" version="1">Sonic Riposte</content>
+    <content contentuid="hffea3f5915744a5f9473a628cee1b33bg37g" version="1">Retaliate with a thunderous strike when a creature misses you with a melee attack. Damage equal to a roll of your inspiration die plus your Charisma modifier.</content>
+    <content contentuid="h5b114dc88ca240e1bd30541a01a24bad8f53" version="1">Provoking Chorus</content>
+    <content contentuid="h0ce2806d6dfe4ed983b4436373ced828b9c8" version="1">Shielding Melody</content>
+    <content contentuid="hd52bf6be48d34a9f8101396274ec31cecb1b" version="1">Receive a bonus to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; equal to your max inspiration die roll until the end of your turn.</content>
+    <content contentuid="h65a7fe2d095549a0afddfef1e1fd76752ff2" version="1">Song of the Whimpering Strike</content>
+    <content contentuid="h480a9d0889b9416fa97e697724ffe9fb7379" version="1">&lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="h645cbe6c4a8147a886872c7233eca34fdab5" version="1">Target receives &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on its next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="ha405cd5f5faa4c4e86a08b207da21bf2cef4" version="1">Verse of the Vigorous Champion</content>
+    <content contentuid="h1c6a05258d0a41eab805858fbeb5958774ca" version="1">Choose a friendly target to give them temporary hit points equal to your max inspiration die roll.</content>
+    <content contentuid="h318fec4610ab4d7c8cceca35bc1c779cc6gc" version="1">Granted temporary HP by a friendly combatant's rallying cry. </content>
+    <content contentuid="h24c91163dfaf4b7eb947d254bdf6e7f8248c" version="1">Siphon of the Dark Whisper</content>
+    <content contentuid="hd4e5cf79f0f8493494d11b67cdd83ee10916" version="1">You draw on the music in your soul to fuel your Bae'Qeshel magic which restores your Bardic Inspiration.</content>
 </contentList>

@@ -5,9 +5,14 @@
 		<node id="root">
 			<children>
 				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="CoB Song list" />
+					<attribute id="Spells" type="LSString" value="CoB_DisarmingTrill;CoB_HymnOfIntimidation;CoB_LyricOfTheLingeringLaggard;CoB_SonicRiposte;CoB_AriaOfDiscordance;CoB_DarkMinstrelsLullabye;CoB_ProvokingChorus;CoB_ShieldingMelody;CoB_SongOfTheWhimperingStrike;CoB_VerseOfTheVigorousChampion" />
+					<attribute id="UUID" type="guid" value="96dc7fd8-3811-443d-97ea-416817c11944" />
+				</node>
+				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 3" />
 					<attribute id="Spells" type="LSString" value="" />
-					<attribute id="UUID" type="guid" value="4f0163f9-71ac-4021-ad5a-4c00732e96a9" />
+					<attribute id="UUID" type="guid" value="ac19a418-4a37-4f2b-bb86-d9e9387d3d4c" />
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 4" />
@@ -41,7 +46,7 @@
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 10" />
-					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="CoB_SiphonOfTheDarkWhisper" />
 					<attribute id="UUID" type="guid" value="a866b90c-bbad-4cb2-bdfd-c4926f46cb2f" />
 				</node>
 				<node id="SpellList">
@@ -61,7 +66,7 @@
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 14" />
-					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="CoB_SiphonOfTheDarkWhisper" />
 					<attribute id="UUID" type="guid" value="3b65fac0-ae2a-4010-9857-875395bb335c" />
 				</node>
 				<node id="SpellList">
