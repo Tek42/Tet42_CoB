@@ -20,7 +20,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ac19a418-4a37-4f2b-bb86-d9e9387d3d4c)" />
                     <attribute id="TableUUID" type="guid" value="fc6648f9-81b9-4227-aa0a-351932b0bc10" />
                     <attribute id="UUID" type="guid" value="f49c1487-71ae-4703-a67a-e73fefdb8a1e" />
                 </node>
@@ -48,9 +48,9 @@
                     <attribute id="Level" type="uint8" value="7" />
                     <attribute id="Name" type="LSString" value="Tet42_CoB" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="SpiderWalk" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(5084d08a-4e35-4f09-b9be-485284cb0066)" />
                     <attribute id="TableUUID" type="guid" value="fc6648f9-81b9-4227-aa0a-351932b0bc10" />
                     <attribute id="UUID" type="guid" value="03808e11-e4ee-408c-b123-e2aaae447033" />
                 </node>
@@ -80,7 +80,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(96dc7fd8-3811-443d-97ea-416817c11944,2,1,CoBSpells);AddSpells(a866b90c-bbad-4cb2-bdfd-c4926f46cb2f)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(96dc7fd8-3811-443d-97ea-416817c11944,2,1,CoBSpells)" />
                     <attribute id="TableUUID" type="guid" value="fc6648f9-81b9-4227-aa0a-351932b0bc10" />
                     <attribute id="UUID" type="guid" value="44c2ebf2-5590-4745-8494-835a14b9cda5" />
                 </node>
@@ -137,6 +137,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="16" />
                     <attribute id="Name" type="LSString" value="Tet42_CoB" />
+                    <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Boosts" type="LSString" value="" />
@@ -178,6 +179,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="20" />
                     <attribute id="Name" type="LSString" value="Tet42_CoB" />
+                    <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Boosts" type="LSString" value="" />

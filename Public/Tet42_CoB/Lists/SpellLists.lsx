@@ -31,7 +31,7 @@
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 7" />
-					<attribute id="Spells" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="CoB_FindFamiliar_Spider;CoB_SpiderlingSpawn;CoB_SongOfInfestation" />
 					<attribute id="UUID" type="guid" value="5084d08a-4e35-4f09-b9be-485284cb0066" />
 				</node>
 				<node id="SpellList">
@@ -46,7 +46,7 @@
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="CoB Spells lists Lvl 10" />
-					<attribute id="Spells" type="LSString" value="CoB_SiphonOfTheDarkWhisper" />
+					<attribute id="Spells" type="LSString" value="" />
 					<attribute id="UUID" type="guid" value="a866b90c-bbad-4cb2-bdfd-c4926f46cb2f" />
 				</node>
 				<node id="SpellList">

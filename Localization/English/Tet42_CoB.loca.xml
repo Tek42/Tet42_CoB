@@ -26,4 +26,11 @@
     <content contentuid="h318fec4610ab4d7c8cceca35bc1c779cc6gc" version="1">Granted temporary HP by a friendly combatant's rallying cry. </content>
     <content contentuid="h24c91163dfaf4b7eb947d254bdf6e7f8248c" version="1">Siphon of the Dark Whisper</content>
     <content contentuid="hd4e5cf79f0f8493494d11b67cdd83ee10916" version="1">You draw on the music in your soul to fuel your Bae'Qeshel magic which restores your Bardic Inspiration.</content>
+    <content contentuid="h50e7dfbe83d641d8bcdb836b247e0e88f91b" version="1">Song of Infestation</content>
+    <content contentuid="h126c070a5b1d43bcaed130b2d7dcc1524f82" version="1">While this song is active, any creature within 3m of you will be webbed and infested with tiny spiders dealing 1d4 piercing damage each turn.</content>
+    <content contentuid="hddf855eef5a64f52a079943bfdaad22567ab" version="1">Chant of the Spider</content>
+    <content contentuid="hadf282969cf04db6a41986664d5f1269g77f" version="1">Places a web containing 3 spiders at the target location and has a chance to frighten those in the target radius. The web and spiders remain for 4 turns, the spiders will do your bidding during this time.</content>
+    <content contentuid="haeea6b154bea4c9198d54dedf48bceeff2ga" version="1">Crawling with tiny spiders that deal [1] each turn.&lt;br&gt;&lt;br&gt;At the start of your turn you can make a new &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; to try and remove the infestation.</content>
+    <content contentuid="hf80fe76ed07d45a186a90b4fcb68f813cef3" version="1">Enwebbed</content>
+    <content contentuid="hb496897262f443e0b6000df1eb89a67eg63f" version="1">Cannot move. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the affected entity have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, while its Attack Rolls have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. It also has Disadvantage on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 </contentList>
